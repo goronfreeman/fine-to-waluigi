@@ -17,4 +17,4 @@ http://i.imgur.com/gGmeAGp.png
 Installation
 ------------
 
-In Chrome, choose Window > Extensions.  Drag CloudToButt.crx into the page that appears.
+In Chrome, choose Window > Extensions.  Drag FineToWaluigi.crx into the page that appears.
